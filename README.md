@@ -1,4 +1,4 @@
-#  Admin Panel (React + Vite) Tauseef Akhtar
+#  Admin Panel (React + Vite)
 
 This project is an **Admin Panel** built using **React 19** and **Vite**, utilizing **React Bootstrap** for UI components and **React Router DOM** for navigation. The application integrates **Axios** for API calls and follows a structured folder architecture for maintainability.
 
@@ -28,7 +28,7 @@ This project is an **Admin Panel** built using **React 19** and **Vite**, utiliz
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/admin-panel.git
+git clone https://github.com/Presidnttsf/admin-panels.git
 cd admin-panel
 ```
 
@@ -90,6 +90,10 @@ The application interacts with an external API for managing models.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## Author
+
+**Tauseef Akhtar**
 
 ## License
 
